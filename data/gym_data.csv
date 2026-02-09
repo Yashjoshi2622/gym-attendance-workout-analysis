@@ -1,0 +1,13 @@
+	member_id	visit_date	age	gender	membership_type	workout_type	workout_duration_minutes	calories_burned	check_in_time	attendance_status
+0	1	2024-10-11	64	Other	Annual	HIIT	28	171	20:04	Absent
+1	2	2024-06-01	65	Female	Quarterly	Strength Training	72	650	19:17	Absent
+2	3	2024-06-13	45	Male	Quarterly	Cardio	70	633	7:24	Absent
+3	4	2024-02-05	35	Female	Monthly	CrossFit	64	362	7:18	Absent
+4	5	2024-07-13	26	Female	Quarterly	Yoga	31	262	11:22	Absent
+...	...	...	...	...	...	...	...	...	...	...
+2595	2596	2024-07-20	64	Female	Quarterly	Yoga	63	443	19:07	Absent
+2596	2597	2024-05-13	22	Other	Quarterly	CrossFit	32	282	8:39	Present
+2597	2598	2024-04-27	44	Male	Quarterly	CrossFit	94	875	22:49	Present
+2598	2599	2024-12-20	62	Male	Annual	HIIT	58	303	10:38	Present
+2599	2600	2024-04-01	62	Female	Annual	Strength Training	65	610	5:42	Present
+2600 rows × 10 columns
